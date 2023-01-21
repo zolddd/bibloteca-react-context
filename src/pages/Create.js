@@ -122,7 +122,7 @@ export let Create = () => {
           />
         </div>
 
-        <input type="submit" value={"register a book"} />
+        <input type="submit" value={"registrar un book"} />
       </form>
       </Layout> 
 

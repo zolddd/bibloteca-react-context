@@ -12,7 +12,7 @@ export let View = () => {
     setitem(book);
   }, []);
   if (!item) {
-    return <div>book no found</div>;
+    return <div>book no encontrado</div>;
   }
   return (
     <Layout>
