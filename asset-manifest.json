@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bibloteca-react-context/static/css/main.9d2c4429.css",
+    "main.js": "/bibloteca-react-context/static/js/main.82c41e5e.js",
+    "static/js/787.6389711e.chunk.js": "/bibloteca-react-context/static/js/787.6389711e.chunk.js",
+    "index.html": "/bibloteca-react-context/index.html",
+    "main.9d2c4429.css.map": "/bibloteca-react-context/static/css/main.9d2c4429.css.map",
+    "main.82c41e5e.js.map": "/bibloteca-react-context/static/js/main.82c41e5e.js.map",
+    "787.6389711e.chunk.js.map": "/bibloteca-react-context/static/js/787.6389711e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d2c4429.css",
+    "static/js/main.82c41e5e.js"
+  ]
+}
